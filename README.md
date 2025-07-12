@@ -48,7 +48,7 @@ python main.py
 
 ## 📈 Output Example
 
-![Sample Output](images/sample_output.png)
+![Sample Output](sample_output.png)
 
 ---
 
