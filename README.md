@@ -7,6 +7,9 @@ This project detects Parkinson’s Disease from hand-drawn spiral and wave image
 
 ## 📂 Dataset
 
+The dataset is available for download here:
+🔗 [Download Dataset (Google Drive)](https://drive.google.com/https://drive.google.com/file/d/1noBiUy_a-rJ_7GFrkV8ASLHqYLyM3bg0/view?usp=drive_link)
+
 The dataset includes spiral/wave drawings from:
 - **Healthy individuals**
 - **Patients with Parkinson’s Disease**
